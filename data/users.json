@@ -1,0 +1,24 @@
+[
+  {
+    "id": "admin-001",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "profile": {
+      "name": "管理员",
+      "avatarHistory": [],
+      "motto": "管理同学录",
+      "fields": [
+        {"category": "邮箱", "values": ["admin@school.com"]},
+        {"category": "微信", "values": ["admin_wx"]},
+        {"category": "QQ", "values": [""]},
+        {"category": "电话", "values": [""]}
+      ],
+      "address": "学校办公室",
+      "bio": "同学录管理员"
+    },
+    "following": [],
+    "tags": [],
+    "messages": []
+  }
+]
